@@ -1,0 +1,205 @@
+.header {
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 300px;
+}
+
+.header-img {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  height: 400px;
+  width: 1150px;
+}
+
+.header-text {
+  position: relative;
+  text-align: right;
+  top: 60px;
+  right: 30px;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.title-1 {
+  margin-bottom: 15px;
+}
+
+.all-para {
+  font-size: 15px;
+  color: rgb(79, 73, 66);
+  margin: 0;
+}
+
+.btn {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 15px;
+  border: 0;
+  padding: 18px 35px;
+  height: 50px;
+  border-radius: 5px;
+  background: #c86219;
+  margin-top: 10px;
+}
+
+.body-1 {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.person-image {
+  height: 300px;
+  width: 300px;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: 10px;
+  padding: 0;
+}
+
+.body-title {
+  text-align: center;
+}
+
+.practice {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+
+.practice-img {
+  height: 100px;
+  width: 100px;
+}
+
+.practice-topic {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.practice-div {
+  text-align: center;
+}
+
+.wnt-to-do {
+  font-weight: 500;
+}
+
+.watch-body,
+.watch-body-text {
+  height: 300px;
+  width: 900px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 5px;
+}
+
+.watch-body-text {
+  background-image: url("../images/gradient2.png");
+}
+
+.watch-body {
+  background-image: url("../images/watch.png");
+}
+
+.img-title {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  padding-left: 40px;
+  color: white;
+}
+
+.img-title-1 {
+  color: white;
+  padding-top: 0px;
+  padding-left: 40px;
+}
+
+.watch-btn {
+  color: #c86219;
+  font-weight: 600;
+  font-size: 15px;
+  border: 0;
+  padding: 18px 35px;
+  height: 50px;
+  border-radius: 5px;
+  background: #ffffff;
+  margin-top: 10px;
+  margin-left: 40px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 60px;
+  gap: 40px;
+  width: auto;
+  height: 450px;
+  margin-top: 100px;
+  background-color: black;
+  color: white;
+}
+
+.footer-title {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.footer-para {
+  font-size: 15px;
+  color: rgb(224, 218, 212);
+}
+
+.footer-email {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 15px;
+  color: rgb(224, 218, 212);
+}
+
+.footer-phone {
+  margin-bottom: 30px;
+  font-size: 15px;
+  color: rgb(224, 218, 212);
+}
+
+.footer-img {
+  height: 35px;
+  width: 35px;
+  margin-bottom: 35px;
+}
+
+.sub-title {
+  font-size: 30px;
+}
+
+.input-field {
+  height: 40px;
+  width: 300px;
+  border-color: white;
+  border-radius: 5px;
+  color: white;
+  padding-left: 10px;
+  font-weight: bold;
+  background-color: black;
+  margin-bottom: 40px;
+}
+
+.footer-btn {
+  color: #c86219;
+  font-weight: 600;
+  font-size: 15px;
+  border: 0;
+  padding: 18px 35px;
+  height: 50px;
+  border-radius: 5px;
+  background: #ffffff;
+}
